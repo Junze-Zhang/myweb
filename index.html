@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Personal IDE</title>
+    <link rel="stylesheet" href="style.css">
+    <script defer src="script.js"></script>
+</head>
+<body>
+<div class="ide-container">
+    <!-- Sidebar/Explorer -->
+    <div class="sidebar">
+        <div class="folder">📂 Files</div>
+        <ul>
+            <li><a href="#" class="file-link" data-file="about_me.txt">🔹 about_me.txt</a></li>
+            <li><a href="#" class="file-link" data-file="projects.txt">🔹 projects.txt</a></li>
+            <li><a href="/cv" target="_blank">🔹 resume.pdf</a></li>
+        </ul>
+    </div>
+
+    <!-- Code Editor Section -->
+    <div class="editor">
+        <div class="tab" id="tab">about_me.txt</div>
+        <div class="code-window">
+                <pre id="file-content">
+<span class="comment">// Personal Introduction </span>
+Hi! I am <span class="highlight">[Junze Zhang]</span>, a passionate programmer with experience in web development, software engineering,
+and machine learning.
+
+I thrive on solving complex problems by combining logical thinking, efficiency, and precision with a flair
+for creativity. I enjoy exploring new technologies, contributing to open-source projects, and working on
+challenging tasks that push the boundaries of my knowledge.
+
+Curiosity is at the core of my work -- whether it's diving into new concepts, crafting innovative solutions,
+or navigating the ever-evolving tech world, I'm always eager to learn and grow.
+
+In leisure time, I enjoy going sightseeing, keeping fit, and discovering new hobbies and experiences.
+                    <!-- Link to CV -->
+<span class="highlight"><a href="/cv" target="_blank">My CV</a></span>
+
+<span class="highlight"><a href="https://github.com/Junze-Zhang" target="_blank">GitHub: Junze-Zhang</a></span>
+                </pre>
+        </div>
+    </div>
+</div>
+
+<!--&lt;!&ndash; Language Switch Button &ndash;&gt;-->
+<!--<div class="language-switch" id="language-switch">中文</div>-->
+</body>
+</html>
