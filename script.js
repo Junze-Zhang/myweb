@@ -5,7 +5,8 @@ const files = {
 Hi! I am <span class="highlight">[Junze Zhang]</span>, a passionate programmer with experience in web development, software engineering,
 and machine learning.
 
-With startup experience, I specialize in creating efficient, scalable solutions and uncovering patterns in complex datasets. I am passionate about problem-solving and quick to learn new technologies.
+With startup experience, I specialize in creating efficient, scalable solutions and uncovering patterns in
+complex datasets. I am passionate about problem-solving and quick to learn new technologies.
 
 Curiosity is at the core of my work -- whether it's diving into new concepts, crafting innovative solutions,
 or navigating the ever-evolving tech world, I'm always eager to learn and grow.
