@@ -5,14 +5,14 @@ const files = {
 Hi! I am <span class="highlight">[Junze Zhang]</span>, a passionate programmer with experience in web development, software engineering,
 and machine learning.
 
-I thrive on solving complex problems by combining logical thinking, efficiency, and precision with a flair
-for creativity. I enjoy exploring new technologies, contributing to open-source projects, and working on
-challenging tasks that push the boundaries of my knowledge.
+With startup experience, I specialize in creating efficient, scalable solutions and uncovering patterns in complex datasets. I am passionate about problem-solving and quick to learn new technologies.
 
 Curiosity is at the core of my work -- whether it's diving into new concepts, crafting innovative solutions,
 or navigating the ever-evolving tech world, I'm always eager to learn and grow.
 
 In leisure time, I enjoy going sightseeing, keeping fit, and discovering new hobbies and experiences.
+
+I’m seeking roles in software development or data analysis where I can contribute and grow. Let’s connect!
 <!-- Link to CV -->
 <span class="highlight"><a href="/cv.pdf" target="_blank">My CV</a></span>
 
