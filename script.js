@@ -24,6 +24,9 @@ Here are a few projects I've worked on:
 <span class="highlight">InsightLabel, a Powerful Image Annotation Tool</span>
     A web-based image annotation tool for object detection data annotators, boosted with 
     machine learning assistance.
+    
+<span class="highlight">MEME -- Hate Speech Detection of Internet Memes with Multimodal Machine Learning</span>
+    Detect hate speeches in meme pictures with BERT-based multimodal machine learning.
 
 <span class="highlight">MKBQA -- Knowledge Graph Based Question Answering for Medical Inquiries</span>
     A medical question answering chatbot based on medical knowledge graphs.
