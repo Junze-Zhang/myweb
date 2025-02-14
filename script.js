@@ -14,7 +14,7 @@ or navigating the ever-evolving tech world, I'm always eager to learn and grow.
 
 In leisure time, I enjoy going sightseeing, keeping fit, and discovering new hobbies and experiences.
 <!-- Link to CV -->
-<span class="highlight"><a href="/cv" target="_blank">My CV</a></span>
+<span class="highlight"><a href="/cv.pdf" target="_blank">My CV</a></span>
 
 <span class="highlight"><a href="https://github.com/Junze-Zhang" target="_blank">GitHub: Junze-Zhang</a></span>`,
 
@@ -32,7 +32,7 @@ Here are a few projects I've worked on:
     A medical question answering chatbot based on medical knowledge graphs.
 
 <span class="comment">// More projects can be found at:</span>
-<span class="highlight"><a href="/cv" target="_blank">My CV</a></span>`
+<span class="highlight"><a href="/cv.pdf" target="_blank">My CV</a></span>`
     },
 //     zh: {
 //         "about_me.txt": `// 个人介绍
