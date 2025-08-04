@@ -5,8 +5,8 @@ export const aboutText = {
     timeline: [
       {
         period: "2023 - 2025",
-        degree: "Master of Engineering",
-        program: "Electrical and Computer Engineering, Software Specialization @ University of Waterloo",
+        degree: "Master of Engineering @ University of Waterloo",
+        program: "Electrical and Computer Engineering, Software Specialization",
         institution: "University of Waterloo",
         location: "Waterloo, ON, Canada",
         highlights: [
