@@ -29,12 +29,31 @@ export const aboutText = {
           "Optimization & Machine Learning",
           "Data Structures and Algorithm Design",
         ]
+      },
+      {
+        period: "2022",
+        degree: "Academic Program",
+        program: "Deep Learning",
+        institution: "University of Cambridge ",
+        location: "Online",
+        highlights: [
+          "Instructor: Prof. Pietro Lio",
+        ]
       }
     ]
   },
   experience: {
     title: "Professional Experience",
     timeline: [
+      {
+        period: "Jan. 2025 – Present",
+        role: "Full Stack Developer",
+        company: "InsightAI (Freelance)",
+        location: "Waterloo, ON, Canada",
+        type: "Freelance",
+        tags: ["Freelance", "Frontend", "Backend", "Next.js", "Vercel", "LLM", "CI/CD", "Tailwind CSS", "UI/UX Design", "PostgreSQL"],
+        summary: "Developed CareerEasy, a full-stack AI-powered job board and InsightLabel, an auto data annotation application with AI assistance"
+      },
       {
         period: "Apr 2023 - Aug 2023",
         role: "Software Developer",
@@ -43,15 +62,6 @@ export const aboutText = {
         type: "Internship",
         tags: ["Internship", "Frontend", "Backend", "React.js", "Spring Boot", "OpenAPI", "CI/CD", "Server", "Linux", "Networks"],
         summary: "Responsible for development of an online shopping platform. Used Spring Boot with OpenAPI/Swagger for backend development, and React.js for frontend. Also responsible for software debugging and maintenance, Linux server and internet setup, and CI/CD pipeline setup."
-      },
-      {
-        period: "Jul 2022 - Sep 2022", 
-        role: "Research Assistant",
-        company: "University of Cambridge",
-        location: "Remote",
-        type: "Research",
-        tags: ["Research", "Multimodal Machine Learning", "BERT", "Computer Vision", "NLP"],
-        summary: "Developed a BERT-based multimodal neural network that classifies pictures with text, achieving state-of-the-art performance"
       }
     ]
   },
