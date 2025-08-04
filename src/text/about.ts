@@ -6,7 +6,7 @@ export const aboutText = {
       {
         period: "2023 - 2025",
         degree: "Master of Engineering",
-        program: "Electrical and Computer Engineering, Software Specialization",
+        program: "Electrical and Computer Engineering, Software Specialization @ University of Waterloo",
         institution: "University of Waterloo",
         location: "Waterloo, ON, Canada",
         highlights: [
@@ -19,7 +19,7 @@ export const aboutText = {
       },
       {
         period: "2019 - 2023",
-        degree: "Bachelor of Engineering",
+        degree: "Bachelor of Engineering @ Beijing Institute of Technology",
         program: "Data Science & Big Data Technology",
         institution: "Beijing Institute of Technology",
         location: "Beijing, China",
@@ -32,9 +32,9 @@ export const aboutText = {
       },
       {
         period: "2022",
-        degree: "Academic Program",
+        degree: "Academic Program @ University of Cambridge",
         program: "Deep Learning",
-        institution: "University of Cambridge ",
+        institution: "University of Cambridge",
         location: "Online",
         highlights: [
           "Instructor: Prof. Pietro Lio",
