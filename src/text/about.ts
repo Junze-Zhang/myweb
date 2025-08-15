@@ -72,5 +72,9 @@ export const aboutText = {
   interests: {
     title: "What Drives Me",
     content: `I love exploration - both physically and intellectually. Whether it's visiting a city, learning a new framework, or utilizing the power of cutting-edge technologies, I'm motivated by the challenge of transforming complex problems into elegant solutions.`
+  },
+  brand: {
+    title: "InsightAI",
+    content: `My freelance brand focused on building AI-powered full-stack solutions that provide meaningful insights. Through InsightAI, I've developed CareerEasy (AI job matching platform) and InsightLabel (intelligent data annotation tool), combining cutting-edge AI with practical business applications.`
   }
 };
